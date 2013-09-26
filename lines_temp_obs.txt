@@ -1,0 +1,4 @@
+       2 temp_obs_Iqaluit.txt
+       2 temp_obs_StJohns.txt
+       5 temp_obs_Vancouver.txt
+       9 total
